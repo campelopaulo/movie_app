@@ -4,5 +4,5 @@ Aplicativo desenvolvido em Flutter que lista os filmes usando a API do site The 
 
 ## Demo
 <p align="center">
-    <img src="assets/images/app.gif">
+    <img width="250" src="assets/images/app.gif">
 </p>
